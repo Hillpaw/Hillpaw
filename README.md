@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris, and I am <a href="https://www.linkedin.com/in/chris-ujiagbe-97a368257/"> an IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+👨‍💻 Information Technology Projects:
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Hillpaw/osticket-prereqs)
